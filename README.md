@@ -1,4 +1,4 @@
-![# Análisis del Sector de Telecomunicaciones en Argentina](PROY2.jpg)
+![# Análisis del Sector de Telecomunicaciones en Argentina](PROY2.jpeg)
 
 # Análisis del Sector de Telecomunicaciones en Argentina
 
