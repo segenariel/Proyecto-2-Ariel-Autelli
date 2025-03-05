@@ -1,4 +1,4 @@
-![Texto alternativo]([URL-de-la-imagen](https://photos.google.com/photo/AF1QipOAT8deLm07f4qhc_pYZsogPbdJpSHZdeVZYZYY))
+![# Análisis del Sector de Telecomunicaciones en Argentina](images/nombre-de-la-imagen.jpg)
 
 # Análisis del Sector de Telecomunicaciones en Argentina
 
